@@ -1,6 +1,9 @@
-def make_tuples(*lists):
-  new_list = []
-  # Insert code below
+def simple_calculator(oper,a,b):
   
-  # Insert code above
-  return new_list
+  ## def add function
+  
+  ## def subtration function
+  
+  ## def multiplication function
+  
+  ## def division function
